@@ -1,0 +1,1 @@
+javascript:var firebug=document.createElement('script');firebug.setAttribute('src','https://raw.githubusercontent.com/IllOcean27/chromebook-stuffs/main/firebug-bypass-1.js');document.body.appendChild(firebug);(function(){if(window.firebug.version){firebug.init();}else{setTimeout(arguments.callee);}})();void(firebug);
