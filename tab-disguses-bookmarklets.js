@@ -2,7 +2,7 @@
 //                            ****Tab Disgises****                              //
 //                                                                             //
 // Use these tab disguses to hide any tab. More will be added by request.     //
-// To request one, just DM me on Discord, IllOcean27#4588.                   //
+// To request one, head over to the discussions tab and add the request tag. //
 // _________________________________________________________________________//
 
 // Google Docs
