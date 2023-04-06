@@ -11,4 +11,8 @@ javascript:(function() {var link = document.querySelector("link[rel*='icon']") |
 
 // Clever Portal
 
-javascript:(function() {var link = document.querySelector("link[rel*='icon']") || document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'https://assets.clever.com/launchpad/b2a286f20/favicon.ico?1%27;document.title = %27Clever | Portal%27;console.log(document.title);document.getElementsByTagName(%27head%27)[0].appendChild(link);})();
+javascript:(function() {var link = document.querySelector("link[rel*='icon']") || document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'https://assets.clever.com/launchpad/b2a286f20/favicon.ico?1%27';document.title = Clever | Portal;console.log(document.title);document.getElementsByTagName(%27head%27)[0].appendChild(link);})();
+                        
+// Google Classroom
+                          
+javascript:(function() {var link = document.querySelector("link[rel*='icon']") || document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'ssl.gstatic.com/classroom/favicon.png';document.title = Classes ;console.log(document.title);document.getElementsByTagName(%27head%27)[0].appendChild(link);})();
